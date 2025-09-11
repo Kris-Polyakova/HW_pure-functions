@@ -1,0 +1,1 @@
+[![Deploy static content to Pages](https://github.com/Kris-Polyakova/HW_pure-functions/actions/workflows/deploy.yml/badge.svg)](https://github.com/Kris-Polyakova/HW_pure-functions/actions/workflows/deploy.yml)
